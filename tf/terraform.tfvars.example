@@ -1,0 +1,6 @@
+aws_region         = "us-east-1"
+hvn_region         = "ap-southeast-1"
+hvn_id             = "hcp-vault"
+vault_cluster_tier = "standard_small"
+vault_port         = 8200
+instance_type      = "t2.micro"
